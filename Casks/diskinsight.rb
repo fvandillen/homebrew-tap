@@ -1,6 +1,6 @@
 cask "diskinsight" do
-  version "1.0.1"
-  sha256 "957692a88dea6b3b3f2d6ac1347b41310a4f1a05eded6980d8c6f4762784a1ab"
+  version "1.0.2"
+  sha256 "fd4b4cd6a6826b513348355fd8b3546f18fb855abbc13f5fc64d7fa6126e4666"
 
   url "https://github.com/fvandillen/diskinsight/releases/download/v#{version}/DiskInsight-#{version}-arm64.zip"
   name "DiskInsight"
